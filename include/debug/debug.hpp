@@ -13,7 +13,7 @@ SPDX-License-Identifier: MIT
 Copyright (c) 2020-2020 Delonon Liu <DelononLiu@gmail.com>.
 */
 
-#ifndef NANOINFRA_DEBUG_H
-#define NANOINFRA_DEBUG_H
+#ifndef NANOINFRA_DEBUG_HPP
+#define NANOINFRA_DEBUG_HPP
 
-#endif //NANOINFRA_DEBUG_H
+#endif //NANOINFRA_DEBUG_HPP

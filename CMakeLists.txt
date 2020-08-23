@@ -8,5 +8,5 @@ project(NanoInfra)
 include_directories(include)
 
 add_subdirectory(src)
-add_subdirectory(tests)
 add_subdirectory(sample)
+add_subdirectory(tests)

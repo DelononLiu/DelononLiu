@@ -13,8 +13,8 @@ SPDX-License-Identifier: MIT
 Copyright (c) 2020-2020 Delonon Liu <DelononLiu@gmail.com>.
 */
 
-#ifndef NANOINFRA_ARGPARSER_H
-#define NANOINFRA_ARGPARSER_H
+#ifndef NANOINFRA_ARGPARSER_HPP
+#define NANOINFRA_ARGPARSER_HPP
 
 #include <string>
 
@@ -44,4 +44,4 @@ private:
 
 } // Infra
 } // Nano
-#endif //NANOINFRA_ARGPARSER_H
+#endif //NANOINFRA_ARGPARSER_HPP

@@ -12,3 +12,8 @@ Licensed under the MIT License <http://opensource.org/licenses/MIT>.
 SPDX-License-Identifier: MIT
 Copyright (c) 2020-2020 Delonon Liu <DelononLiu@gmail.com>.
 */
+
+int main()
+{
+
+}
